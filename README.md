@@ -3,7 +3,7 @@
 ## THÔNG TIN SINH VIÊN
 
 -   **Họ và tên:** Đỗ Quang Toàn
--   **Mã số sinh viên:** 34810320100
+-   **Mã số sinh viên:** 24810320100
 -   **Lớp:** D19QTANM1
 -   **Tên môn học:** Lập trình .NET
 -   **Tên bài tập:** Bài 5.3 - Form quản lý danh sách sản phẩm trong bộ
