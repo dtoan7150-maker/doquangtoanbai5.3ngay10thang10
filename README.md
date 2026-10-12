@@ -15,22 +15,22 @@
 
 ### 1. Giao diện chính
 
-![Giao diện chính](./screenshots/main_ui.png)
+![Giao diện chính](./main_ui.png)
 
 ### 2. Chức năng thêm sản phẩm
 
-![Thêm sản phẩm](./screenshots/add_product.png)
+![Thêm sản phẩm](./add_product.png)
 
 ### 3. Chức năng chọn dòng và hiển thị thông tin sản phẩm
 
-![Chọn sản phẩm](./screenshots/select_product.png)
+![Chọn sản phẩm](./select_product.png)
 
 ### 4. Chức năng xóa sản phẩm và xác nhận
 
-![Xác nhận xóa](./screenshots/delete_confirm.png)
+![Xác nhận xóa](./delete_confirm.png)
 
 ### 5. Chức năng tìm kiếm sản phẩm theo tên
 
-![Tìm kiếm sản phẩm](./screenshots/search_product.png)
+![Tìm kiếm sản phẩm](./search_product.png)
 
 
